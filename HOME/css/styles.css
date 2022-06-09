@@ -11376,6 +11376,19 @@ header.masthead h1, header.masthead .h1 {
 
 .center{
   text-align: center;
-  padding-bottom: 10%;
+  padding-bottom: 5%;
 
 }
+
+a.navbar-brand{
+  color: #000000;
+  text-decoration: none ;
+  font-weight: bold;
+}
+
+/*
+   COLOR BOOSTRAP  7752BE
+   COLOR JAVA FAB005
+   COLOR Angular F03E3D
+   COLOR Mysql 4DADF7
+*/
