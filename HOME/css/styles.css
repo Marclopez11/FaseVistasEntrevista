@@ -11323,6 +11323,53 @@ html {
   }
 }
 
+
+
+a.navbar-brand{
+  color: #000000;
+  text-decoration: none ;
+  font-weight: bold;
+}
+
+/*
+   COLOR BOOSTRAP  7752BE
+   COLOR JAVA FAB005
+   COLOR Angular F03E3D
+   COLOR Mysql 4DADF7
+*/
+
+/*Home*/
+
+.bg-bostrap{
+  background-color: #7752BE;
+}
+
+.bg-java{
+  background-color: #FAB005;
+}
+
+.bg-angular{
+  background-color: #F03E3D;
+}
+
+.bg-mysql{
+  background-color: #4DADF7;
+}
+
+.bg-btn-blue{
+  background-color: #439FF2;
+  border: none;
+  color: white;
+}
+
+.bg-btn-white{
+  background-color: #fff;
+  border-color: #439FF2;
+  color:black
+}
+
+/*candidate*/
+
 .call-to-action {
   position: relative;
   background-color: #343a40;
@@ -11379,16 +11426,3 @@ header.masthead h1, header.masthead .h1 {
   padding-bottom: 5%;
 
 }
-
-a.navbar-brand{
-  color: #000000;
-  text-decoration: none ;
-  font-weight: bold;
-}
-
-/*
-   COLOR BOOSTRAP  7752BE
-   COLOR JAVA FAB005
-   COLOR Angular F03E3D
-   COLOR Mysql 4DADF7
-*/
